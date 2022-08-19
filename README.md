@@ -1,3 +1,3 @@
-# Modify this portfolio
 
-Make it your own! 
+# Welcome to my portfolio
+##[Build Deployment](https://jackson-gurney.netlify.app/)
